@@ -1,0 +1,7 @@
+# find swap uuid
+grep swap /etc /fstab
+
+# file /etc/default/grub - add missing resume disc
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash resume=UUID=73606693-6d90-400f-98dc-c9bfc74647ca"
+GRUB_CMDLINE_LINUX="quiet splash resume=UUID=73606693-6d90-400f-98dc-c9bfc74647ca"
+

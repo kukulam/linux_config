@@ -1,0 +1,3 @@
+Add to autostart apps: 
+
+wmctrl -s 1 

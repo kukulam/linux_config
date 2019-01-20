@@ -1,0 +1,13 @@
+keycode 51 = Insert
+keycode 118 = backslash bar 
+keycode 107 = Home NoSymbol Home
+keycode 110 = Print Sys_Req Print Sys_Req
+keycode 105 = End NoSymbol End
+keycode 115 = Control_R NoSymbol Control_R
+
+clear control
+clear mod1
+keycode 37 = Alt_L Meta_L
+keycode 64 = Control_L NoSymbol
+add control = Control_L Control_R
+add mod1 = Alt_L Meta_L
