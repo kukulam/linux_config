@@ -18,6 +18,7 @@ alias .3="cd ../../.."
 alias .4="cd ../../../../"
 alias .5="cd ../../../../.."
 alias .6="cd ../../../../../.."
+alias scripts="cd ~/git_repo/linux_config"
 
 # git
 alias ga="git add . ; git status"
