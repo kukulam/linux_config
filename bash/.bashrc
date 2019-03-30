@@ -26,3 +26,5 @@ if [ -f ~/.bash_aliases ]; then
 fi
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
+
+
