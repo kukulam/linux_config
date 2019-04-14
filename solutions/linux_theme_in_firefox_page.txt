@@ -1,0 +1,9 @@
+Problem: https://askubuntu.com/questions/978184/firefox-57-shows-dark-input-boxes-dropdown-menus-with-dark-text-on-gnome-dark-th
+
+Solution: https://www.mkammerer.de/blog/gtk-dark-theme-and-firefox/
+
+Firefox:
+1. about:config
+2. Add new record
+- widget.content.gtk-theme-override: Arc-Darker
+3. Restart
