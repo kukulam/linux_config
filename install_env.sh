@@ -97,3 +97,5 @@
 #sudo apt install keepassxc
 
 #sudo apt-get install darktable
+
+#sudo apt-get install hugo
