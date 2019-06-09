@@ -92,6 +92,8 @@
 #sudo chmod +x /usr/local/bin/docker-compose
 
 
-sudo add-apt-repository ppa:phoerious/keepassxc
-sudo apt-get update
-sudo apt install keepassxc
+#sudo add-apt-repository ppa:phoerious/keepassxc
+#sudo apt-get update
+#sudo apt install keepassxc
+
+#sudo apt-get install darktable
